@@ -6,5 +6,7 @@ persist.vendor.camera.privapp.list=com.android.camera
 #vendor.camera.aux.packagelist=com.android.camera
 
 # MiuiCamera
+persist.vendor.camera.enableAdvanceFeatures=0x3E7
+ro.boot.camera.config=_pro
 ro.product.mod_device=venus_global
 ro.miui.notch=1
